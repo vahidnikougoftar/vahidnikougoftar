@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning algorithms, focused on Deep Learning.
 - 👯 I’m looking to collaborate on Data for Good initiatives.
 - 🤔 I’m looking for help with exploring Robotics.
-- 📫 How to reach me: <a href="mailto:vahid.nikougoftar@gmail.com" Email me>, or connect on LinkedIn
+- 📫 How to reach me: <a Email me href="mailto:vahid.nikougoftar@gmail.com">, or connect on LinkedIn<a href="">
 - ⚡ Fun fact: I tinker with legos when not coding. 
 
 
