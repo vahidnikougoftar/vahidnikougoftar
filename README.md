@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data for Good initiatives.
 - 🤔 I’m looking for help with exploring Robotics.
 - 📫 How to reach me: Email me, or connect on LinkedIn
-- ⚡ Fun fact: I am napping when not coding ! 
+- ⚡ Fun fact: I tinker with legos when not coding. 
 
-
+<b>Background</b>
+I am an immigrant, and a Civil Engineer by trade. Since 2015, I have entered into th world of Data Analytics and Data Science, self-taught programming, SQL, and Business Intelligence tools and techniques. I find engineering and math fascinating. Learning and playing with my kids are the two most enjoyable activities and most fun when they happen at the same time! 
